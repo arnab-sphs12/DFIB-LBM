@@ -6,5 +6,7 @@ The code is capable in solving fluid-particle interaction involving complex geom
 
 ## Pure Wake Interaction
 
-![purewakeinteraction.mp4](arnab-sphs12/DFIB-LBM/blob/master/purewakeinteraction.mp4)
+https://github.com/arnab-sphs12/DFIB-LBM/assets/136519143/3f0dc600-41ac-4725-8ad8-a3316169d03b
+
+![purewakeinteraction.mp4](https://github.com/arnab-sphs12/DFIB-LBM/assets/136519143/3f0dc600-41ac-4725-8ad8-a3316169d03b)
 
