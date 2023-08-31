@@ -8,5 +8,6 @@ The code is capable in solving fluid-particle interaction involving complex geom
 
 https://github.com/arnab-sphs12/DFIB-LBM/assets/136519143/3f0dc600-41ac-4725-8ad8-a3316169d03b
 
+## Tumbling of a flat plate
 
-
+https://github.com/arnab-sphs12/DFIB-LBM/assets/136519143/d31c1729-3c18-4f15-995f-c32f717c51e3
